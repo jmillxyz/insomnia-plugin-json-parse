@@ -1,0 +1,15 @@
+{
+  "name": "insomnia-plugin-json-parse",
+  "version": "1.0.0",
+  "description": "Use JSON.parse() in Insomnia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Miller <jondelmil@gmail.com>",
+  "license": "ISC",
+  "insomnia": {
+    "name": "parse",
+    "description": "Use JSON.parse() in Insomnia"
+  }
+}
